@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GabrielSantosCruz
+- 👀 I’m interested in bot development
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on altomatization works with python
