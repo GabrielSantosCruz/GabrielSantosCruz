@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @GabrielSantosCruz
-- 👀 I’m interested in bot development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on altomatization works with python
+
+Me = {
+      
+      'Name': 'Gabriel Santos Cruz'
+      'Age': '18'
+      'Naturalness': 'Bahia'
+      'Languages': 'Python'
+      'Interests': 'Automation', 'Bots'      
+      
+      }
